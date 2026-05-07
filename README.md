@@ -1,5 +1,6 @@
 # Rappi Monitoring Dashboard
 
+🔗 **[Ver demo en vivo](https://witty-mud-0d6ef8d0f.7.azurestaticapps.net/)**
 Dashboard de análisis de monitoreo sintético de disponibilidad de tiendas Rappi (febrero 2026). Visualiza series de tiempo acumulativas, detecta incidentes automáticamente e incluye un asistente de IA con soporte de imágenes.
 
 ---
